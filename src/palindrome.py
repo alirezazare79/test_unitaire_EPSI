@@ -2,8 +2,10 @@ import os
 
 
 class Palindrome:
+
     def __init__(self, langue):
         self.__langue = langue
+
     def mirroir(self, mot):
         return mot[::-1]
 

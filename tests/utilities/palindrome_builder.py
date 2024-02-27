@@ -5,7 +5,6 @@ from tests.utilities.LangueStub import LangueStub
 class PalindromeBuilder:
     __langue = LangueStub()
 
-
     def build(self):
         return Palindrome(self.__langue)
 
