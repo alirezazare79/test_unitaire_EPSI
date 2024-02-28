@@ -1,6 +1,7 @@
 import os
 
 
+
 class Palindrome:
 
     def __init__(self, langue):
